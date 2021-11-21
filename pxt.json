@@ -1,5 +1,5 @@
 {
-    "name": "음악전송기(보내기)",
+    "name": "음악전송기(보내기+받기)",
     "description": "",
     "dependencies": {
         "core": "*",
